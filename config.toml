@@ -17,6 +17,8 @@ hidden = false
 C-o = ":config-open"
 C-r = ":config-reload"
 
+Z = {Q = ":quit!", Z = ":write-quit!"}
+
 # Some nice Helix stuff
 C-h = "select_prev_sibling"
 C-j = "shrink_selection"
